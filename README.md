@@ -1,2 +1,2 @@
 # MergingConflicts2
-Study hard 
+Study smart
